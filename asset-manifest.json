@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/online_learning/static/css/main.ab7136cd.chunk.css",
+    "main.css": "/online_learning/static/css/main.73efbf52.chunk.css",
     "main.js": "/online_learning/static/js/main.78e1cc5d.chunk.js",
     "main.js.map": "/online_learning/static/js/main.78e1cc5d.chunk.js.map",
     "runtime-main.js": "/online_learning/static/js/runtime-main.ed56a397.js",
@@ -10,14 +10,14 @@
     "static/js/3.6c6a2c65.chunk.js": "/online_learning/static/js/3.6c6a2c65.chunk.js",
     "static/js/3.6c6a2c65.chunk.js.map": "/online_learning/static/js/3.6c6a2c65.chunk.js.map",
     "index.html": "/online_learning/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/online_learning/static/css/main.ab7136cd.chunk.css.map",
+    "static/css/main.73efbf52.chunk.css.map": "/online_learning/static/css/main.73efbf52.chunk.css.map",
     "static/js/2.fbbf1d4b.chunk.js.LICENSE.txt": "/online_learning/static/js/2.fbbf1d4b.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/online_learning/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.ed56a397.js",
     "static/js/2.fbbf1d4b.chunk.js",
-    "static/css/main.ab7136cd.chunk.css",
+    "static/css/main.73efbf52.chunk.css",
     "static/js/main.78e1cc5d.chunk.js"
   ]
 }
