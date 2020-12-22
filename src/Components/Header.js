@@ -11,7 +11,7 @@ export default class Header extends Component {
 								<div className="row">
 									<div className="col-md-3">
 										<div className="edu_logo_main_wrapper">
-											<a href="index-2.html">
+											<a href="/">
 												<img src="assets/images/logo.png" alt="logo"/>
 											</a>
 										</div>
