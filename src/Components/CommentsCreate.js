@@ -12,7 +12,8 @@ export default class CommentsCreate extends Component {
 						<div className="formsix-pos">
 							<div className="form-group i-name">
 								<label className="sr-only">Name</label>
-								<input type="text" className="form-control" required="" id="namTen-first" placeholder="Full Name *"> <i className="fas fa-user-alt"></i>
+								<input type="text" className="form-control" required="" id="namTen-first" placeholder="Full Name *" /> 
+								<i className="fas fa-user-alt"></i>
 							</div>
 						</div>
 					</div>
@@ -20,7 +21,7 @@ export default class CommentsCreate extends Component {
 						<div className="formsix-e">
 							<div className="form-group i-email">
 								<label className="sr-only">Email</label>
-								<input type="email" className="form-control" required="" id="emailTen" placeholder="Email Address *"> <i className="fas fa-envelope"></i>
+								<input type="email" className="form-control" required="" id="emailTen" placeholder="Email Address *" /> <i className="fas fa-envelope"></i>
 							</div>
 						</div>
 					</div>

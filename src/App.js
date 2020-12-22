@@ -6,6 +6,7 @@ import Header from './Components/Header';
 import BackToTop from './Components/BackToTop';
 import NavHeader from './Components/NavHeader';
 import HomePage from './Pages/HomePage';
+import Courses from './Pages/Courses';
 import Footer from './Components/Footer';
 
 function App() {
@@ -19,7 +20,7 @@ function App() {
 		<Route exact path='/' component={HomePage} />
 		<Route exact path='/home' component={HomePage} />
 		<Route exact path='/about' component={HomePage} />
-		<Route exact path='/courses/:id?' component={HomePage} />
+		<Route exact path='/courses/:id?' component={Courses} />
 		<Route exact path='/contact' component={HomePage} />
 	  </Switch>
 	  <Footer />
